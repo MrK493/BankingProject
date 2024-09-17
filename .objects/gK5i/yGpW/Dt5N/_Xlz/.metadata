@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text  - Client information",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "_XlzH9SeoUinYrL9Wu1-uw",
+  "Reference": "fEx1TNuIyUiWViyFE2urfQ/_XlzH9SeoUinYrL9Wu1-uw",
+  "ParentRef": "fEx1TNuIyUiWViyFE2urfQ/Dt5N2D9IakyHHTcuqSgXRw",
+  "Created": "2024-09-01T19:25:12.9921419Z",
+  "Updated": "2024-09-01T19:25:12.9921419Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
